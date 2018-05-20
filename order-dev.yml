@@ -18,6 +18,3 @@ eureka:
 env:
   dev
 
-girl:
-  name: yien
-  age: 24
