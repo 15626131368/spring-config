@@ -16,8 +16,8 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 env:
-  test2
+  test
 
 girl:
-  name: yien3
-  age: 26
+  name: yien
+  age: 24
