@@ -10,7 +10,7 @@ spring:
     show-sql: true
 
 env:
-  dev222
+  dev2
 girl:
   name: yien
   age: 112
